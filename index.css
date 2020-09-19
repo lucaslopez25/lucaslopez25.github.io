@@ -6,3 +6,14 @@ body {
 .navbar-title-text {
 	font-size: 15px;
 }
+
+.avatar {
+	border-radius: 50%;
+	width: 60px;
+	height: auto;
+}
+
+.mini-imagem {
+	width: 15px;
+	height: auto;
+}
